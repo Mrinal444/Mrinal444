@@ -29,4 +29,10 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=s_mrinal&theme=dark&animated=true" alt="LeetCode Badges" height=200px/>
 </div>
 
-[![An image of @mrinal444's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrinal444)](https://holopin.io/@mrinal444)
+## 🎖️ My Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@mrinal444">
+    <img src="https://holopin.me/mrinal444" alt="@mrinal444's Holopin board" />
+  </a>
+</div>
