@@ -21,3 +21,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal444&show_icons=true&locale=en&layout=compact" alt="mrinal444" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinal444&show_icons=true&locale=en" alt="mrinal444" /></p>
+
+## LeetCode Stats & DSA <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=200px/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=s_mrinal&theme=dark&animated=true" alt="LeetCode Badges" height=200px/>
+</div>
