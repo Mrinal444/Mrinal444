@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrinal Singh</h1>
 <h3 align="center">Learning. Building. Evolving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinal444&label=Profile%20views&color=0e75b6&style=flat" alt="mrinal444" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrinal444" alt="mrinal444" /></a> </p>
 
 - 💬 Ask me about **MERN**
 
