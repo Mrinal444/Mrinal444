@@ -1,23 +1,42 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrinal444.Mrinal444&"  />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
 ## About Me
 
-Hi, I'm John Doe, a **passionate full-stack web developer** with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.  
-When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
+Hi, I'm Mrinal Singh, a Computer Science Engineering undergraduate focused on strengthening my programming fundamentals.  
+I primarily practice data structures and algorithms in C++ and do basic data exploration with Python.  
+This GitHub profile documents my learning, practice work, and academic code as I improve problem-solving skills and code clarity.
 
 ## My Skills
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<p align="left">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
 
-## GitHub Stats
+## LeetCode Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: johndoe@gmail.com</p>
+<p align="center">
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/mrinal444" target="_blank">Mrinal Singh</a><br>
+📧 Email: mrings98@gmail.com
+</p>
