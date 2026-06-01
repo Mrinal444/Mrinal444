@@ -15,6 +15,13 @@ Hi, I'm Mrinal Singh, a Computer Science Engineering undergraduate focused on st
 I primarily practice data structures and algorithms in C++ and do basic data exploration with Python.  
 This GitHub profile documents my learning, practice work, and academic code as I improve problem-solving skills and code clarity.
 
+## Resume
+
+🌐 **Resume Website:** https://mrinal444.github.io/
+
+📄 **Download Resume:** https://mrinal444.github.io/index.pdf
+
+
 ## My Skills
 
 <p align="left">
