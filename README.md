@@ -190,7 +190,7 @@ Bash (https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash
     <img src="https://img.shields.io/badge/Gmail-mrings98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/s_mrinal">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=dark&font=Karma&ext=heatmap" alt="LeetCode" />
   </a>
   <a href="https://github.com/Mrinal444">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -203,14 +203,6 @@ Bash (https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash
   <p><i>Crafted with passion for clean code, system design, and scalability 🚀</i></p>
 
 </div>
-
-
-
-## LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=dark&font=Karma&ext=heatmap" />
-</p>
 
 
 ## Resume
