@@ -1,0 +1,10 @@
+# Resume files & binaries
+resume.tex
+resume.html
+Mrinal_Singh_Resume.pdf
+index.pdf
+*.pdf
+
+# Generator scripts & raw temp assets
+avatar.png
+generate_card.js

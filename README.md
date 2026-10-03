@@ -1,10 +1,11 @@
-
 <div align="center">
 
-  # Hi 👋, I'm <a href="https://github.com/Mrinal444">Mrinal Singh</a>
+  <p align="center">
+    <img src="card.png" width="100%" title="Mrinal Singh - SDE & Applied Systems" alt="Intro Card" />
+  </p>
 
-
-
+  <h1>Hi 👋, I'm <a href="https://github.com/Mrinal444">Mrinal Singh</a></h1>
+  
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Development+Engineer+(SDE);Full-Stack+%26+Applied+Systems+Builder;Open+Source+Contributor+%40+GSSoC+'25;200%2B+LeetCode+Problems+Solved+(76%25%2B+Acc);Building+Forensic+Engines+%26+Scalable+APIs" alt="Typing SVG" />
@@ -17,10 +18,10 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/mrinal444"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/s_mrinal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://linkedin.com/in/mrinal444" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/s_mrinal" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="mailto:mrings98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Mrinal444"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/Mrinal444" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=120&section=header" width="100%" alt="Header Wave"/>
@@ -31,23 +32,24 @@
 
 ### 👨‍💻 Quick Snapshot
 
-yaml
+```yaml
 Name: Mrinal Singh
 Title: Software Development Engineer (SDE) | Full-Stack & Applied Systems
 Location: Bhubaneswar, Odisha, India
 College: KIIT Bhubaneswar (B.Tech in Computer Science & Engineering, 2024 - 2028)
 Academics: CGPA: 9.30 / 10.00
 Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing & ML APIs
+```
 
-- 🎓 B.Tech CSE Undergrad @ KIIT: Deep focus on Data Structures, Algorithms, DBMS, OOP, and Operating Systems.
-- 🚀 Open Source Contributor: Interned with GirlScript Summer of Code (GSSoC '25) and active contributor during Hacktoberfest.
-- 🧠 Algorithmic Problem Solver: Solved 200+ problems on LeetCode with a 76%+ acceptance rate (@s_mrinal (https://leetcode.com/u/s_mrinal)).
-- 🏆 Hackathons: Institutional Finalist for Smart India Hackathon (SIH26135).
-- ⚡ What I'm building: Deterministic evidence reconstruction engines, logistics bidding platforms, and high-performance REST microservices.
+- 🎓 **B.Tech CSE Undergrad @ KIIT**: Deep focus on **Data Structures, Algorithms, DBMS, OOP, and Operating Systems**.
+- 🚀 **Open Source Contributor**: Interned with **GirlScript Summer of Code (GSSoC '25)** and active contributor during **Hacktoberfest**.
+- 🧠 **Algorithmic Problem Solver**: Solved **200+ problems on LeetCode** with a **76%+ acceptance rate** ([@s_mrinal](https://leetcode.com/u/s_mrinal)).
+- 🏆 **Hackathons**: Institutional Finalist for **Smart India Hackathon (SIH26135)**.
+- ⚡ **What I'm building**: Deterministic evidence reconstruction engines, logistics bidding platforms, and high-performance REST microservices.
 
 ---
 
-🛠️ Languages & Tech Stack
+### 🛠️ Languages & Tech Stack
 
 <p align="center">
   <b>💻 Programming Languages</b><br/>
@@ -98,12 +100,12 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
 
 ---
 
-🚀 Featured Engineering Projects
+### 🚀 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 CaseBrief </h3>
+      <h3 align="center">🔍 CaseBrief v2.0</h3>
       <p align="center">
         <b>Cyber Forensics & Fraud Evidence Reconstruction Platform</b>
       </p>
@@ -182,7 +184,7 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
 
 ---
 
-🤝 Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
@@ -194,30 +196,14 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
   <a href="mailto:mrings98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mrings98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/s_mrinal" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
   <a href="https://github.com/Mrinal444" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
-
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
   <p><i>Crafted with passion for clean code, system design, and scalability 🚀</i></p>
 
 </div>
-
-
-## Resume
-
-🌐 **Resume Website:** https://mrinal444.github.io/
-
-📄 **Download Resume:** https://mrinal444.github.io/resume.pdf
-## Connect with me
-
-<p align="center">
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/mrinal444" target="_blank">Mrinal Singh</a><br>
-📧 Email: mrings98@gmail.com
-</p>
