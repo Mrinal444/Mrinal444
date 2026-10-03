@@ -2,9 +2,7 @@
 <div align="center">
 
   # Hi 👋, I'm <a href="https://github.com/Mrinal444">Mrinal Singh</a>
-  <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/82748205" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+
 
 
   <p align="center">
