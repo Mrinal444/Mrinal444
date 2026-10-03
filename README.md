@@ -2,6 +2,10 @@
 <div align="center">
 
   # Hi 👋, I'm <a href="https://github.com/Mrinal444">Mrinal Singh</a>
+  <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/82748205" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -101,7 +105,7 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 CaseBrief v2.0</h3>
+      <h3 align="center">🔍 CaseBrief </h3>
       <p align="center">
         <b>Cyber Forensics & Fraud Evidence Reconstruction Platform</b>
       </p>
@@ -153,24 +157,26 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
 
 ---
 
-📈 Activity & Analytics
+### 📈 Activity & Analytics
 
 <div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/mrinal444" width="100%" alt="Mrinal's GitHub Contribution Heatmap" />
+  <br/><br/>
   <table border="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mrinal444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Mrinal's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mrinal444&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Mrinal's GitHub Stats" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal444&theme=tokyonight&hide_border=true" width="100%" alt="Mrinal's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal444&theme=dark&hide_border=true" width="100%" alt="Mrinal's GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal444&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal444&layout=compact&theme=dark&hide_border=true" width="100%" alt="Top Languages" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/s_mrinal?ext=heatmap&theme=dark&font=Fira%20Code" width="100%" alt="LeetCode Stats & Heatmap" />
       </td>
     </tr>
   </table>
@@ -184,26 +190,18 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
 
   <p>I'm always excited to collaborate on open-source initiatives, discuss distributed backend systems, or explore SDE opportunities!</p>
 
-  <div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mrinal444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Mrinal's GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal444&theme=tokyonight&hide_border=true" width="100%" alt="Mrinal's GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal444&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=tokyonight&font=Fira%20Code" width="100%" alt="LeetCode Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <a href="https://linkedin.com/in/mrinal444" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mrings98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mrings98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/s_mrinal" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Mrinal444" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
   <br/><br/>
 
