@@ -170,7 +170,7 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal444&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=tokyonight&font=Fira%20Code" width="100%" alt="LeetCode Stats" />
+        <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" alt="LeetCode Stats" />
       </td>
     </tr>
   </table>
@@ -190,8 +190,8 @@ Core Focus: Scalable Web Architectures, Cyber Forensics, Deterministic Parsing &
   <a href="mailto:mrings98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mrings98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/s_mrinal">
-    <img src="https://leetcard.jacoblin.cool/s_mrinal?theme=dark&font=Karma&ext=heatmap" alt="LeetCode" />
+  <a href="https://leetcode.com/u/s_mrinal" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/Mrinal444">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
